@@ -21,7 +21,7 @@ Output: `dist/`
 ## Netlify Visual Editor (Git CMS)
 
 1. Push this repo to GitHub/GitLab and connect the site on Netlify.
-2. In the Netlify UI: **Project configuration → Visual editor** (or **Enable visual editor**), connect the repo branch you use for previews (often `main` or a dedicated **`preview`** branch — follow Netlify’s prompt).
+2. In the Netlify UI: **Project configuration → Visual editor → Preview settings**, note which **Git branch** powers the dev server (often **`preview`**). That branch must include the same **`stackbit.config.ts`** as production (e.g. merge `main` into `preview` after config changes). If that branch still used an old **Contentful** `stackbit.config.ts` without tokens, the Visual Editor build fails with `Expected parameter accessToken`; this repo’s config uses **Git CMS** only (`@stackbit/cms-git`).
 3. Ensure **`stackbit.config.ts`** is on the default branch Netlify reads; it defines `GitContentSource` for `src/content/`, a **`sitemap`** that maps every Git document to `/` (SPA), and a **custom Vite** dev command with HMR passthrough (`/vite-hmr/**`).
 4. Production builds use **Node 20** via `netlify.toml` (aligned with `nodeVersion` in `stackbit.config.ts`).
 5. Optional — local Visual Editor: install the CLI (`npm install -g @stackbit/cli`), run `npm run dev` in one terminal and `stackbit dev` in another, then open the URL the CLI prints and sign in.
