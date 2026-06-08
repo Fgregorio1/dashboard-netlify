@@ -1,0 +1,83 @@
+{
+  "type": "module",
+  "code": "M4",
+  "title": "Sistema de Vocabulário",
+  "goal": "Crescer o vocabulário de forma medível e recompensadora — o seu anti-Duolingo.",
+  "lessons": [
+    {
+      "id": "m4l1",
+      "title": "Repetição espaçada explicada",
+      "level": "Todos",
+      "duration": "8–10 min",
+      "hook": "Você esquece o que aprende não porque tem memória ruim, mas porque revisa na hora errada. A repetição espaçada resolve isso.",
+      "teach": [
+        "Explique a curva do esquecimento: a gente esquece rápido se não revisa.",
+        "Defina repetição espaçada: revisar uma palavra em intervalos crescentes (1 dia, 3 dias, 1 semana, 1 mês).",
+        "Mostre que o sistema mostra a palavra bem na hora em que você está prestes a esquecer — máxima eficiência.",
+        "Conecte com vocabulário: é assim que você fixa as palavras mineradas da sua imersão."
+      ],
+      "task": "Escolha 5 palavras que você viu hoje e crie um flashcard de cada (vamos configurar a ferramenta na próxima aula).",
+      "closing": "Memória não é dom, é cronograma. Revise na hora certa e o vocabulário gruda."
+    },
+    {
+      "id": "m4l2",
+      "title": "Montando seus flashcards",
+      "level": "Todos",
+      "duration": "10–12 min",
+      "hook": "Vou te mostrar como montar seu sistema de flashcards do zero — e te dar 3 opções pra você escolher a sua.",
+      "teach": [
+        "Mostre as 3 opções: Language Reactor (salva direto do vídeo), Anki (poderoso e grátis), planilha LatinusPro (simples).",
+        "Ensine o que vai no cartão: frente = palavra/frase em inglês no contexto; verso = significado + exemplo.",
+        "Regra de ouro: salve a palavra DENTRO de uma frase real, nunca solta.",
+        "Mostre na tela a criação de um cartão em cada ferramenta."
+      ],
+      "task": "Escolha SUA ferramenta e crie seus 5 primeiros cartões com frases reais. Poste qual ferramenta escolheu.",
+      "closing": "Não importa a ferramenta. Importa ter UMA e usar todo dia. Escolha e comece."
+    },
+    {
+      "id": "m4l3",
+      "title": "Minerar palavras do conteúdo que você consome",
+      "level": "Todos",
+      "duration": "7–9 min",
+      "hook": "Pare de estudar listas de palavras aleatórias. As melhores palavras pra você estão no conteúdo que você já ama.",
+      "teach": [
+        "Defina mineração: extrair as palavras/expressões novas do que você assiste e ler.",
+        "Critério de seleção: salve só o que é útil e recorrente pra você — não tudo que não conhece.",
+        "Mostre o fluxo: assistiu → marcou a palavra → salvou no flashcard com a frase → revisou depois.",
+        "Limite saudável: 5–10 palavras novas por sessão pra não sobrecarregar."
+      ],
+      "task": "Na sua próxima imersão, minere 8 palavras e transforme em flashcards com a frase de origem.",
+      "closing": "Vocabulário relevante é o que aparece na SUA vida. Minere do que você ama e ele nunca some."
+    },
+    {
+      "id": "m4l4",
+      "title": "Quantas palavras por dia (e por que menos é mais)",
+      "level": "Todos",
+      "duration": "6–8 min",
+      "hook": "Mais palavras por dia parece melhor, mas é a receita pra desistir. Vou te dar o número que realmente funciona.",
+      "teach": [
+        "Dê o número: 5–10 palavras NOVAS por dia é sustentável e poderoso.",
+        "Faça a conta: 7 palavras/dia = ~2.500 palavras/ano — vocabulário de conversação fluente.",
+        "Explique por que pouco é melhor: você sustenta o hábito e a revisão não vira uma montanha.",
+        "Reforce: o crescimento vem da CONSISTÊNCIA das revisões, não do volume diário."
+      ],
+      "task": "Defina sua meta diária de palavras novas (sugestão: 7) e ajuste sua ferramenta para esse limite.",
+      "closing": "7 palavras por dia parece pouco. Em um ano são milhares. É assim que se constrói fluência."
+    },
+    {
+      "id": "m4l5",
+      "title": "Marcos de vocabulário: 1.000 / 2.000 / 5.000 palavras",
+      "level": "Todos",
+      "duration": "7–9 min",
+      "hook": "Aprender idioma sem ver progresso é desmotivante. Por isso a gente transforma vocabulário em placar — e celebra cada marco.",
+      "teach": [
+        "Dê referências: ~1.000 palavras = conversa básica; ~2.000–3.000 = conversação confortável; ~5.000 = fluência ampla.",
+        "Explique como acompanhar o número total na ferramenta e no seu perfil.",
+        "Conecte com a comunidade: cada marco vira uma vitória pública celebrada por todos.",
+        "Mostre o efeito psicológico: ver o número subir é o reforço positivo que substitui a 'gamificação' do Duolingo."
+      ],
+      "task": "Registre seu total atual de palavras e defina o próximo marco. Avise a comunidade quando bater.",
+      "closing": "O que é medido, melhora. Transforme seu vocabulário em número e veja a motivação cuidar de si mesma."
+    }
+  ]
+}

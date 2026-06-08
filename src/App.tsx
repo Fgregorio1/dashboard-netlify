@@ -8,7 +8,7 @@ import {
   PILLARS,
   TABS,
   type Lesson,
-} from "./curriculumData";
+} from "./curriculumContent";
 
 type TabId = (typeof TABS)[number]["id"];
 
@@ -377,8 +377,8 @@ export default function App() {
       )}
 
       <p className="footer-note">
-        Site estático gerado a partir do currículo. Para editar conteúdo, altere{" "}
-        <code>src/curriculumData.ts</code> e rode <code>npm run build</code>.
+        Conteúdo editável em <code>src/content/</code> (Git CMS / Netlify Visual Editor). Build:{" "}
+        <code>npm run build</code>.
       </p>
     </div>
   );

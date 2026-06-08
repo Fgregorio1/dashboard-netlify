@@ -1,0 +1,84 @@
+{
+  "type": "module",
+  "code": "M6",
+  "title": "Parceiro de Intercâmbio",
+  "goal": "Conseguir um parceiro real e manter a rotina de troca. Vale mais que tutor de IA.",
+  "lessons": [
+    {
+      "id": "m6l1",
+      "title": "Por que parceiro humano real > tutor de voz com IA",
+      "level": "Todos",
+      "duration": "7–9 min",
+      "hook": "Todo mundo está empolgado com tutor de IA. Eu vou te mostrar por que um parceiro humano de verdade vence ele de longe.",
+      "teach": [
+        "Motivo 1 — engajamento: conversar com gente real é divertido; com IA enjoa rápido.",
+        "Motivo 2 — stakes reais: a vontade de ser entendido por uma pessoa te força a se esforçar de verdade.",
+        "Motivo 3 — cultura e gírias: humanos trazem contexto, humor e expressões que IA não dá.",
+        "Motivo 4 — accountability: um parceiro te espera; o app não cobra ninguém.",
+        "Equilíbrio: IA pode ser apoio pontual, mas o output principal é com gente."
+      ],
+      "task": "Reflita e poste: você prefere conversar com pessoas ou com apps? Por quê? Isso define sua estratégia.",
+      "closing": "Idioma é conexão humana. Nenhuma IA substitui a emoção de ser entendido por outra pessoa."
+    },
+    {
+      "id": "m6l2",
+      "title": "Onde encontrar parceiros de intercâmbio",
+      "level": "Todos",
+      "duration": "9–11 min",
+      "hook": "Vou te dar os lugares exatos onde encontrar gente disposta a praticar inglês com você — de graça.",
+      "teach": [
+        "Apresente o diretório interno LatinusPro: outros membros buscando parceiro (comece por aqui).",
+        "Liste apps de intercâmbio (Tandem, HelloTalk) e como usá-los com segurança.",
+        "Mostre servidores de Discord de idiomas e comunidades de hobbies em inglês.",
+        "Dica de ouro: pessoas aprendendo português querem trocar com brasileiros — você tem algo a oferecer."
+      ],
+      "task": "Crie seu anúncio no diretório de matchmaking da comunidade OU mande mensagem para 1 possível parceiro hoje.",
+      "closing": "Parceiro não cai do céu — você procura. Mas tem milhares querendo o que você oferece: o português."
+    },
+    {
+      "id": "m6l3",
+      "title": "Como abordar e marcar a primeira conversa",
+      "level": "Todos",
+      "duration": "7–9 min",
+      "hook": "Achou um possível parceiro? Agora não trave na hora de chamar. Vou te dar as mensagens prontas.",
+      "teach": [
+        "Dê o modelo de primeira mensagem: apresentação curta + proposta de troca (X min de inglês, X min de português).",
+        "Combine o básico: idioma de cada metade, horário, frequência, plataforma (call de vídeo/áudio).",
+        "Defina expectativa: combinar 30 minutos, 1x por semana, pra começar leve.",
+        "Ensine a confirmar antes: mandar um lembrete no dia evita 'no-show'."
+      ],
+      "task": "Use o modelo de mensagem e marque sua primeira conversa de intercâmbio para esta semana.",
+      "closing": "A conversa que você adia pra 'quando estiver pronto' nunca acontece. Marque para esta semana."
+    },
+    {
+      "id": "m6l4",
+      "title": "Roteiro pronto da primeira conversa (sem travar)",
+      "level": "Iniciante",
+      "duration": "8–10 min",
+      "hook": "Medo de ficar sem assunto na primeira conversa? Relaxa — eu vou te dar um roteiro pronto pra nunca travar.",
+      "teach": [
+        "Dê perguntas de abertura prontas (de onde é, o que faz, hobbies).",
+        "Ensine frases de socorro: 'How do you say… in English?', 'Can you repeat, please?', 'Sorry, my English is still improving.'",
+        "Sugira temas seguros: viagens, filmes, comida, rotina, trabalho.",
+        "Combine a estrutura: 15 min em inglês + 15 min em português, com 5 min de feedback gentil no fim."
+      ],
+      "task": "Salve as frases de socorro no celular e leve o roteiro para sua primeira conversa.",
+      "closing": "Você não precisa improvisar. Com um roteiro na mão, a primeira conversa deixa de ser terror e vira diversão."
+    },
+    {
+      "id": "m6l5",
+      "title": "Montando uma rotina semanal de intercâmbio",
+      "level": "Todos",
+      "duration": "6–8 min",
+      "hook": "Uma conversa boa é ótima. Uma rotina de conversas é o que te deixa fluente. Vamos transformar isso em hábito.",
+      "teach": [
+        "Defina a frequência mínima: 1x por semana fixo; ideal 2–3x.",
+        "Ensine a agendar horário fixo (mesmo dia/hora) pra virar compromisso, não 'quando der'.",
+        "Sugira manter 2–3 parceiros pra nunca depender de um só.",
+        "Mostre como anotar palavras novas que surgem na conversa e levar pro sistema de vocabulário."
+      ],
+      "task": "Agende um horário fixo semanal de intercâmbio e adicione no seu calendário agora.",
+      "closing": "Fluência é frequência. Uma conversa por semana, toda semana, muda você em 90 dias."
+    }
+  ]
+}

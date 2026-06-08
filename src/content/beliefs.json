@@ -1,0 +1,102 @@
+{
+  "type": "beliefs",
+  "lessons": [
+    {
+      "id": "bel1",
+      "title": "Preciso morar fora para aprender",
+      "level": "Todos",
+      "tag": "Mito 1",
+      "duration": "10–12 min",
+      "hook": "Essa é a desculpa número 1 que eu ouço. E é exatamente ela que mantém gente travada por décadas. Vamos destruí-la.",
+      "teach": [
+        "Apresente o mito e reconheça por que ele PARECE verdade (faz sentido na cabeça das pessoas).",
+        "Vire a chave: o que ensina um idioma é input + output + motivação — não geografia.",
+        "Mostre o paradoxo: morar fora SEM método não funciona; método SEM morar fora funciona muito bem.",
+        "Explique o que realmente importa: exposição com sentido, uso real e baixo medo de errar."
+      ],
+      "example": "Dois imigrantes nos EUA: um vive há 10 anos e mal fala inglês (vive numa bolha, só fala português); o outro chegou já falando, porque estudou com método antes de viajar. Mesmo país, resultados opostos. A diferença nunca foi o lugar.",
+      "task": "Monte hoje 30 minutos de imersão na sua própria casa. Prove pra si mesmo que o país não importa.",
+      "closing": "Você não precisa de passaporte pra aprender inglês. Precisa de input, uso e coragem — e tudo isso cabe na sua sala."
+    },
+    {
+      "id": "bel2",
+      "title": "Sou velho demais / não tenho dom",
+      "level": "Todos",
+      "tag": "Mito 2",
+      "duration": "8–10 min",
+      "hook": "Quantas vezes você disse 'não tenho dom pra idiomas'? Hoje eu provo que dom não existe — método existe.",
+      "teach": [
+        "Derrube o mito do 'dom': não existe gene de idioma; existe estratégia e exposição.",
+        "Mostre as vantagens do adulto: foco, disciplina e capacidade de reconhecer padrões.",
+        "O que a criança tem a mais é tempo de exposição e ausência de medo — e os dois dá pra copiar.",
+        "Reframe: 'não tenho dom' na verdade significa 'nunca usei o método certo'."
+      ],
+      "task": "Escolha 1 conteúdo que você ama e comece por ele hoje. Sua idade não vai te atrapalhar nem um pouco.",
+      "closing": "Dom é desculpa. Método é solução. E o método não pergunta a sua idade."
+    },
+    {
+      "id": "bel3",
+      "title": "Preciso de gramática perfeita antes de falar",
+      "level": "Todos",
+      "tag": "Mito 3",
+      "duration": "8–10 min",
+      "hook": "Esse mito é traiçoeiro porque parece responsável. Mas é justamente ele que te impede de falar pra sempre.",
+      "teach": [
+        "Mostre que fluência vem do uso, não do acúmulo de regras.",
+        "Lembre: nativos aprenderam a FALAR muito antes de saber qualquer gramática.",
+        "Esperar a 'gramática perfeita' é perseguir um alvo que nunca chega — autossabotagem disfarçada de cuidado.",
+        "Posicione a gramática como os 25%, que vêm sob demanda, depois que você já está usando a língua."
+      ],
+      "task": "Grave 1 áudio de 60 segundos falando de você. Com erros. Especialmente com erros.",
+      "closing": "Você não vai falar quando a gramática estiver perfeita. A gramática fica boa porque você começou a falar."
+    },
+    {
+      "id": "bel4",
+      "title": "Vou passar vergonha se errar",
+      "level": "Todos",
+      "tag": "Mito 4",
+      "duration": "9–11 min",
+      "hook": "Esse é o mito mais poderoso de todos, porque é emocional. E é o que mais trava a sua boca. Vamos desarmá-lo.",
+      "teach": [
+        "Explique o filtro afetivo: medo e ansiedade bloqueiam literalmente a fala e a aquisição.",
+        "Faça o reframe do erro: errar é dado, é como o cérebro calibra. Nativos erram a vida inteira.",
+        "Mostre que o julgamento que você teme quase nunca existe — as pessoas costumam torcer por você.",
+        "Posicione a comunidade como ambiente seguro de propósito: apoio, nunca correção humilhante."
+      ],
+      "task": "Poste na comunidade o erro mais 'vergonhoso' que você teme cometer em inglês. Vamos rir junto e seguir em frente.",
+      "closing": "Quem tem medo de errar, cala. Quem aceita errar, fala. A vergonha é o preço da fluência — e é um preço barato."
+    },
+    {
+      "id": "bel5",
+      "title": "Não tenho tempo",
+      "level": "Todos",
+      "tag": "Mito 5",
+      "duration": "7–9 min",
+      "hook": "'Não tenho tempo' é meia verdade. Você TEM tempo — só está gastando ele todo em português. Deixa eu te mostrar.",
+      "teach": [
+        "Mostre que imersão SUBSTITUI consumo que você já faz; ela não soma horas novas.",
+        "Faça a conta de padaria: quantos minutos de YouTube, podcast e série você já consome por dia?",
+        "Proponha trocar o idioma de PARTE desse tempo — começando com 15 minutos.",
+        "Mostre o efeito composto: 20 min/dia = mais de 120 horas de inglês por ano."
+      ],
+      "task": "Hoje, troque 1 vídeo em português que você ia ver por 1 em inglês com legenda. Mesmo tempo, novo idioma.",
+      "closing": "Você não precisa de mais tempo. Precisa trocar o idioma do tempo que já tem — e isso é de graça."
+    },
+    {
+      "id": "bel6",
+      "title": "Um app de idioma é suficiente",
+      "level": "Todos",
+      "tag": "Mito 6",
+      "duration": "8–10 min",
+      "hook": "Você baixou o app, fez 100 dias de ofensiva… e ainda não fala. Tem um motivo — e ele não é culpa sua.",
+      "teach": [
+        "Reconheça o valor: apps são ótimos para criar hábito e gamificação.",
+        "Mostre o limite: dão pouco input real e quase nenhum output com humanos.",
+        "Aprender frases isoladas não é o mesmo que entender e conversar de verdade.",
+        "Reposicione: input real (conteúdo que você ama) + fala com gente são a base; o app é só acessório."
+      ],
+      "task": "Defina seu input real (vídeo/áudio) como atividade principal hoje. Se quiser, use o app só como complemento de 5 min.",
+      "closing": "App nenhum te faz falar. Conteúdo real e gente real, sim. Use o app como tempero — nunca como prato principal."
+    }
+  ]
+}

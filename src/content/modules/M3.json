@@ -1,0 +1,114 @@
+{
+  "type": "module",
+  "code": "M3",
+  "title": "Sistema de Imersão (Input)",
+  "goal": "Tornar a imersão diária um hábito gostoso. A técnica é a mesma; só o nível do conteúdo muda.",
+  "lessons": [
+    {
+      "id": "m3l1",
+      "title": "Como escolher conteúdo que você AMA",
+      "level": "Todos",
+      "duration": "8–10 min",
+      "hook": "O segredo número 1 da imersão não é o melhor material. É o material que você não consegue parar de assistir.",
+      "teach": [
+        "Regra de ouro: escolha conteúdo sobre temas que você JÁ ama em português (futebol, games, maquiagem, negócios, séries).",
+        "Por que funciona: prazer mantém o hábito, e contexto familiar torna o input compreensível mesmo com vocabulário menor.",
+        "Dê os formatos: YouTube, podcasts, séries, audiolivros, canais de nicho.",
+        "Alerta: largue o que é chato sem culpa. Material chato é a causa nº 1 de desistência."
+      ],
+      "task": "Liste 3 temas que você ama e encontre 1 canal/podcast em inglês para cada. Poste seus 3 achados.",
+      "closing": "Se a imersão parece estudo, você escolheu o conteúdo errado. Tem que parecer lazer."
+    },
+    {
+      "id": "m3l2",
+      "title": "Configurar legenda dupla e tradução ao vivo",
+      "level": "Todos",
+      "duration": "10–12 min",
+      "hook": "Vou te mostrar a configuração exata que transforma qualquer vídeo do YouTube ou Netflix numa aula de inglês sob medida.",
+      "teach": [
+        "Mostre na tela como instalar e usar a extensão de legenda dupla (ex.: Language Reactor) no navegador.",
+        "Explique legenda dupla: inglês em cima, português embaixo — pra você conectar som, texto e significado.",
+        "Ensine a progressão: comece com as duas legendas → depois só inglês → depois sem legenda.",
+        "Mostre como clicar numa palavra pra ver a tradução e salvá-la pro vocabulário.",
+        "Importante: não dependa só de uma ferramenta. Ensine alternativas (Anki, planilha) caso a extensão mude."
+      ],
+      "task": "Configure a legenda dupla em 1 vídeo e assista 5 minutos com ela. Tire um print e poste.",
+      "closing": "Essa configuração é a sua sala de aula particular — de graça, com o conteúdo que você ama."
+    },
+    {
+      "id": "m3l3",
+      "title": "Biblioteca de conteúdo — nível Iniciante",
+      "level": "Iniciante",
+      "duration": "8–10 min",
+      "hook": "Se você ainda trava nas primeiras frases, NÃO comece pela série da Netflix. Comece por aqui — conteúdo feito pra ser entendido.",
+      "teach": [
+        "Explique conteúdo graduado: vídeos e podcasts feitos pra aprendizes, com fala mais lenta e clara.",
+        "Indique categorias: canais de 'comprehensible input for beginners', podcasts de inglês lento, vídeos infantis bem produzidos.",
+        "Ensine a usar muita legenda no começo, sem culpa.",
+        "Mostre o sinal de avanço: quando entender ~80% sem esforço, suba pro próximo nível."
+      ],
+      "task": "Escolha 1 fonte de conteúdo graduado da biblioteca e assista 10 minutos hoje.",
+      "closing": "Começar fácil não é fraqueza — é estratégia. Entender 80% é o que mantém você voltando."
+    },
+    {
+      "id": "m3l4",
+      "title": "Biblioteca de conteúdo — nível Intermediário",
+      "level": "Intermediário",
+      "duration": "8–10 min",
+      "hook": "Você já entende o básico mas travou? O problema é que você nunca migrou pro conteúdo nativo real. Hora de subir o nível.",
+      "teach": [
+        "Explique conteúdo nativo: feito por nativos pra nativos (podcasts reais, YouTubers, séries, audiolivros).",
+        "Ensine a usar legenda só como apoio, reduzindo aos poucos.",
+        "Aborde o desconforto: você vai entender menos no começo — isso é o 'i+1' funcionando, não fracasso.",
+        "Mostre como minerar gírias, phrasal verbs e expressões idiomáticas do conteúdo nativo."
+      ],
+      "task": "Escolha 1 conteúdo nativo sobre um tema que você ama e assista 10 minutos reduzindo a legenda.",
+      "closing": "O intermediário não destrava com mais gramática. Destrava com conteúdo real e um pouco de desconforto."
+    },
+    {
+      "id": "m3l5",
+      "title": "Audiolivros: ouvir e ler o texto ao mesmo tempo",
+      "level": "Todos",
+      "duration": "9–11 min",
+      "hook": "Existe uma técnica que junta leitura e escuta no mesmo exercício e acelera tudo: ouvir o audiolivro lendo o texto junto.",
+      "teach": [
+        "Explique a sinergia: ouvir + ler ao mesmo tempo conecta o SOM da palavra à FORMA escrita.",
+        "Recomende começar por livros que você já leu/ama em português (contexto conhecido = input compreensível).",
+        "Ensine o fluxo: 1ª passada ouvindo e lendo; depois só ouvindo; depois só lendo.",
+        "Indique onde achar (apps de audiolivro + e-book correspondente)."
+      ],
+      "task": "Escolha um livro que você já conhece, pegue o áudio + texto e faça 1 capítulo ouvindo e lendo junto.",
+      "closing": "Ouvir lendo é como ter legenda na vida real. É um dos atalhos mais subestimados que existe."
+    },
+    {
+      "id": "m3l6",
+      "title": "Shadowing: repetir junto com o áudio",
+      "level": "Todos",
+      "duration": "8–10 min",
+      "hook": "Quer melhorar pronúncia e ritmo sem aula de fonética? A técnica chama shadowing e é simples (mas poderosa).",
+      "teach": [
+        "Defina shadowing: ouvir uma frase e repetir imediatamente, imitando ritmo, entonação e velocidade.",
+        "Explique por que funciona: treina sua boca e seu ouvido ao mesmo tempo, copiando nativos.",
+        "Dê o passo a passo: escolha um trecho curto → ouça → repita por cima → grave-se → compare.",
+        "Dica: foque em IMITAR a melodia, não em entender cada palavra."
+      ],
+      "task": "Escolha 1 minuto de áudio e faça shadowing dele 3 vezes. Grave a última e ouça.",
+      "closing": "Você não precisa de aula de pronúncia. Precisa imitar gente de verdade, todo dia, um pouquinho."
+    },
+    {
+      "id": "m3l7",
+      "title": "Sua meta diária de input",
+      "level": "Todos",
+      "duration": "6–8 min",
+      "hook": "Quanto de imersão por dia? Vou te dar um número realista que cabe na sua vida e ainda gera resultado.",
+      "teach": [
+        "Dê a meta mínima: 15–20 min/dia de input compreensível. Ideal: 30–60 min se couber.",
+        "Reforce: substitua, não some. Troque parte do consumo em português por inglês.",
+        "Mostre como registrar no log de imersão da comunidade (alimenta o streak e a gamificação).",
+        "Explique o efeito composto: 30 min/dia = ~180 horas/ano de exposição. É transformador."
+      ],
+      "task": "Defina sua meta diária de input e registre sua primeira sessão no log da comunidade hoje.",
+      "closing": "Não existe 'sem tempo'. Existe trocar o idioma do tempo que você já gasta."
+    }
+  ]
+}
