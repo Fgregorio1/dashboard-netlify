@@ -1,0 +1,127 @@
+{
+  "type": "onboarding",
+  "lessons": [
+    {
+      "id": "onb0",
+      "title": "Boas-vindas",
+      "level": "Todos",
+      "tag": "Dia 0",
+      "duration": "5–7 min",
+      "hook": "Bem-vindo à LatinusPro! Antes de qualquer aula, os seus primeiros minutos aqui já decidem se você vai longe. Deixa eu te guiar.",
+      "teach": [
+        "Dê as boas-vindas e relembre a promessa: a primeira conversa real em inglês em 90 dias.",
+        "Faça um tour de 2 minutos do espaço: onde ficam as aulas (Classroom), o feed, o calendário das calls e o diretório de parceiros.",
+        "Explique a regra de ouro da comunidade: ambiente de apoio — ninguém corrige de forma humilhante, todo mundo torce.",
+        "Apresente o modelo do post de apresentação e mostre onde postar."
+      ],
+      "task": "Poste sua apresentação: nome, seu nível atual de inglês, por que você quer aprender e sua meta. Depois, reaja a 2 apresentações de outros membros.",
+      "closing": "Comunidade não é sobre conteúdo — é sobre gente. Se apresente e você já deu o passo mais importante."
+    },
+    {
+      "id": "onb1",
+      "title": "A verdade sobre aprender inglês",
+      "level": "Todos",
+      "tag": "Dia 1",
+      "duration": "5 min + aula M1",
+      "hook": "Hoje sua missão é uma só: entender por que você ainda não fala inglês — e por que isso muda a partir de agora.",
+      "teach": [
+        "Oriente o aluno a assistir a aula M1 · Aula 1 (A verdade sobre como adultos aprendem inglês).",
+        "Reforce a mensagem central: o problema foi sempre o método, não você.",
+        "Peça uma reflexão escrita curta para fixar a virada de chave."
+      ],
+      "task": "Assista a M1 · Aula 1 e poste em 1 frase: 'Sempre me ensinaram a ___, e por isso eu travei.'",
+      "closing": "Entender o problema é metade da solução. Amanhã a gente descobre exatamente por onde VOCÊ começa."
+    },
+    {
+      "id": "onb2",
+      "title": "Diagnóstico de nível",
+      "level": "Todos",
+      "tag": "Dia 2",
+      "duration": "6–8 min",
+      "hook": "Aqui todo mundo segue o mesmo caminho. Hoje você só descobre por qual nível de conteúdo deve começar.",
+      "teach": [
+        "Explique o teste de 2 minutos: assistir um conteúdo nativo (ex.: um podcast) e medir a compreensão.",
+        "Dê o critério simples: entendeu a ideia geral → Intermediário; travou nas primeiras frases → Iniciante.",
+        "Lembre que o nível só indica o material a consumir, não muda a jornada nem cria trilha separada."
+      ],
+      "task": "Faça o teste de 2 minutos, marque seu ponto de partida (Iniciante/Intermediário) no perfil e poste qual foi.",
+      "closing": "Ponto de partida definido. Agora a gente monta a sua máquina de aprender inglês."
+    },
+    {
+      "id": "onb3",
+      "title": "Montar o sistema de imersão",
+      "level": "Todos",
+      "tag": "Dia 3",
+      "duration": "10–12 min",
+      "hook": "Hoje você monta a peça central do método: sua fonte diária de inglês que você AMA assistir.",
+      "teach": [
+        "Oriente escolher 1 conteúdo de um tema que o aluno já ama em português.",
+        "Mostre o passo a passo de instalar a extensão de legenda dupla (ex.: Language Reactor).",
+        "Configure a legenda inglês + português e ensine como salvar palavras.",
+        "Reforce: largar conteúdo chato sem culpa — tem que parecer lazer."
+      ],
+      "task": "Configure a legenda dupla em 1 vídeo, assista 5 minutos e poste um print do seu setup.",
+      "closing": "Pronto: você acabou de transformar o YouTube na sua escola de inglês particular e gratuita."
+    },
+    {
+      "id": "onb4",
+      "title": "Montar o tracker de vocabulário",
+      "level": "Todos",
+      "tag": "Dia 4",
+      "duration": "10–12 min",
+      "hook": "Vamos criar o seu placar de progresso — o sistema que faz o vocabulário crescer e te dá aquela dopamina boa.",
+      "teach": [
+        "Ajude a escolher a ferramenta: Language Reactor, Anki ou a planilha LatinusPro.",
+        "Crie juntos os 5 primeiros flashcards, sempre com a palavra dentro de uma frase real.",
+        "Explique a meta de 7 palavras novas por dia e por que menos é mais."
+      ],
+      "task": "Configure sua ferramenta e crie seus 5 primeiros flashcards. Poste qual ferramenta você escolheu.",
+      "closing": "Agora cada palavra nova vira ponto no placar. É assim que estudar deixa de ser obrigação e vira jogo."
+    },
+    {
+      "id": "onb5",
+      "title": "Primeira imersão de 20 minutos",
+      "level": "Todos",
+      "tag": "Dia 5",
+      "duration": "5 min + 20 min de prática",
+      "hook": "Chega de teoria. Hoje você faz sua primeira sessão de imersão de verdade — e registra ela.",
+      "teach": [
+        "Oriente fazer 20 minutos do conteúdo escolhido com legenda dupla.",
+        "Minerar 5–8 palavras novas para o tracker durante a sessão.",
+        "Registrar no log de imersão da comunidade (isso alimenta o streak e a gamificação)."
+      ],
+      "task": "Faça 20 min de imersão, minere 8 palavras e poste seu primeiro log: 'Assisti X por 20 min, minerei 8 palavras.'",
+      "closing": "Esse é o hábito que muda tudo. Você não está 'estudando' inglês — está vivendo nele, 20 minutos por dia."
+    },
+    {
+      "id": "onb6",
+      "title": "Primeira vitória pública",
+      "level": "Todos",
+      "tag": "Dia 6",
+      "duration": "5–7 min",
+      "hook": "A motivação não vem antes da ação — ela vem DEPOIS, quando você é celebrado. Hoje você posta sua primeira vitória.",
+      "teach": [
+        "Explique o poder de compartilhar progresso: gatilho de recompensa + sensação de pertencimento.",
+        "Dê exemplos de vitórias pequenas: entendeu uma frase sem legenda, completou o streak, gravou um áudio.",
+        "Incentive o hábito de reagir e celebrar as vitórias dos outros membros."
+      ],
+      "task": "Poste sua primeira vitória na thread de 'Wins', por menor que pareça. E celebre a vitória de 2 colegas.",
+      "closing": "Progresso compartilhado é progresso multiplicado. Aqui, suas vitórias nunca passam despercebidas."
+    },
+    {
+      "id": "onb7",
+      "title": "Meta de 90 dias + parceiro",
+      "level": "Todos",
+      "tag": "Dia 7",
+      "duration": "8–10 min",
+      "hook": "Última etapa do onboarding: cravar o seu destino. Hoje você define a meta de 90 dias e entra na fila de parceiros.",
+      "teach": [
+        "Defina a meta padrão da comunidade: primeira conversa real de 10 minutos em 90 dias.",
+        "Torne mensurável: vocabulário (ex.: +500 palavras), minutos de imersão por dia, nº de conversas.",
+        "Mostre como entrar no diretório de matchmaking e criar o anúncio de parceiro."
+      ],
+      "task": "Escreva sua meta de 90 dias no perfil e crie seu anúncio no diretório de parceiros de intercâmbio.",
+      "closing": "Sistema montado, hábito iniciado, meta cravada. Bem-vindo de verdade — agora é girar a roda todo dia."
+    }
+  ]
+}

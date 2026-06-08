@@ -1,0 +1,68 @@
+{
+  "type": "module",
+  "code": "M5",
+  "title": "Destravar a Fala (Output)",
+  "goal": "Começar a falar antes de se sentir 'pronto'. O ponto onde o intermediário mais empaca.",
+  "lessons": [
+    {
+      "id": "m5l1",
+      "title": "Por que você entende mas não consegue falar",
+      "level": "Todos",
+      "duration": "8–10 min",
+      "hook": "Você entende filme, música, podcast… mas na hora de falar trava. Isso tem explicação — e solução.",
+      "teach": [
+        "Explique a diferença entre habilidade passiva (entender) e ativa (falar). Uma não vira a outra sozinha.",
+        "Mostre a causa: você treinou só input. Falar é um músculo separado que precisa de prática própria.",
+        "Tranquilize: travar não é falta de conhecimento, é falta de prática de produção + excesso de medo.",
+        "Apresente a virada do método: começar a produzir output AGORA, mesmo imperfeito."
+      ],
+      "task": "Responda: o que você sente no corpo na hora de falar inglês? Nomear o medo é o primeiro passo pra vencê-lo.",
+      "closing": "Entender é a metade fácil. Falar é uma habilidade própria — e a partir de agora a gente treina ela."
+    },
+    {
+      "id": "m5l2",
+      "title": "Falar sozinho e começar a pensar em inglês",
+      "level": "Todos",
+      "duration": "8–10 min",
+      "hook": "Você não precisa de outra pessoa pra começar a falar hoje. Vou te ensinar a treinar a fala sozinho, sem vergonha.",
+      "teach": [
+        "Técnica 1 — narração: descreva em voz alta o que você está fazendo ('I'm making coffee, now I'm…').",
+        "Técnica 2 — monólogo: fale 2 minutos sobre o seu dia, sem parar pra corrigir.",
+        "Técnica 3 — pensar em inglês: troque o diálogo interno de tarefas simples pro inglês.",
+        "Regra: foco em FLUIR, não em acertar. Errar falando é progresso."
+      ],
+      "task": "Faça 2 minutos de monólogo em voz alta sobre o seu dia. Sem pausar pra corrigir.",
+      "closing": "Falar sozinho parece estranho — e é o atalho mais rápido pra destravar a língua. Comece hoje."
+    },
+    {
+      "id": "m5l3",
+      "title": "Sua primeira gravação de áudio",
+      "level": "Todos",
+      "duration": "7–9 min",
+      "hook": "A ferramenta mais poderosa pra evoluir a fala é o seu próprio celular. Hoje você grava seu primeiro áudio em inglês.",
+      "teach": [
+        "Explique o poder de se gravar: você ouve seus erros, acompanha a evolução e cria coragem.",
+        "Dê o roteiro do 1º áudio: apresente-se, fale sua meta de inglês e o que você ama fazer (60 segundos).",
+        "Ensine a comparar: grave hoje e de novo em 30 dias pra ver o progresso.",
+        "Incentive postar na comunidade pra receber apoio (não correção dura)."
+      ],
+      "task": "Grave 60 segundos se apresentando em inglês e poste na thread de áudios da comunidade.",
+      "closing": "Seu primeiro áudio vai ser imperfeito — e é exatamente por isso que ele é tão valioso. Grave."
+    },
+    {
+      "id": "m5l4",
+      "title": "Vencer o medo de errar (o filtro afetivo)",
+      "level": "Todos",
+      "duration": "9–11 min",
+      "hook": "O maior inimigo do seu inglês não é a gramática. É o medo de passar vergonha. Vamos desarmar isso de vez.",
+      "teach": [
+        "Explique o filtro afetivo: medo e ansiedade bloqueiam literalmente a aquisição e a fala.",
+        "Reframe do erro: cada erro é informação, não fracasso. Nativos erram a vida toda.",
+        "Mostre que a comunidade é um ambiente seguro: a regra é apoio, não correção humilhante.",
+        "Dê a técnica da exposição gradual: áudio → conversa com 1 parceiro → grupo pequeno → maior."
+      ],
+      "task": "Compartilhe na comunidade o erro mais 'vergonhoso' que você já cometeu (ou teme cometer) em inglês. Vamos rir juntos e seguir.",
+      "closing": "Quem tem medo de errar nunca fala. Quem aceita errar, fala — e fica fluente. Escolha errar."
+    }
+  ]
+}

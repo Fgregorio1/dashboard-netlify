@@ -1,0 +1,84 @@
+{
+  "type": "module",
+  "code": "M7",
+  "title": "Biblioteca de Fundamentos",
+  "goal": "Gramática sob demanda, self-paced. Iniciante segue em ordem; quem travou pega só as lacunas.",
+  "lessons": [
+    {
+      "id": "m7l1",
+      "title": "Como usar esta biblioteca: pegue só o que te trava",
+      "level": "Todos",
+      "duration": "6–8 min",
+      "hook": "Atenção: esta NÃO é uma aula pra você decorar tudo. É uma biblioteca pra resolver problema. Deixa eu explicar como usar.",
+      "teach": [
+        "Reforce a filosofia: gramática sob demanda — você consulta quando uma regra está te travando, não antes.",
+        "Iniciante: percorra na ordem (Base → Essencial → Destravar).",
+        "Intermediário: vá direto na lacuna que te incomoda. Não revise o que já domina.",
+        "Lembre: a gramática são os 25%. Não deixe ela virar desculpa pra adiar a imersão e a fala."
+      ],
+      "task": "Identifique a regra de gramática que MAIS te confunde hoje e vá direto na aula dela.",
+      "closing": "Gramática é ferramenta, não muro. Pegue a peça que falta e volte logo pra falar."
+    },
+    {
+      "id": "m7l2",
+      "title": "Base — to be, presente simples, artigos, perguntas",
+      "level": "Iniciante",
+      "duration": "12–15 min",
+      "hook": "Estas são as 4 estruturas que sustentam 80% das frases do dia a dia. Domine isso e você já consegue se comunicar.",
+      "teach": [
+        "Verbo to be (am/is/are): apresentar-se, descrever, localizar.",
+        "Presente simples: rotinas e fatos (I work, she likes), com atenção ao -s da 3ª pessoa.",
+        "Artigos a/an/the: quando usar cada um, de forma simples e prática.",
+        "Perguntas: como formar com do/does e com to be. Dê muitos exemplos falados."
+      ],
+      "task": "Escreva 5 frases sobre você usando to be e presente simples. Poste para feedback.",
+      "closing": "Com essas 4 estruturas você já monta conversas reais. O resto é detalhe que vem com o tempo."
+    },
+    {
+      "id": "m7l3",
+      "title": "Essencial — passado simples, futuro, presente contínuo",
+      "level": "Iniciante",
+      "duration": "12–15 min",
+      "hook": "Agora que você fala no presente, vamos abrir o tempo: passado, futuro e o 'agora mesmo'. Aí sua comunicação explode.",
+      "teach": [
+        "Passado simples: regulares (-ed) e os irregulares mais comuns (went, had, saw, did).",
+        "Futuro: 'will' vs 'going to' — quando usar cada um, sem complicar.",
+        "Presente contínuo (-ing): ações acontecendo agora (I'm studying).",
+        "Foque nos verbos de altíssima frequência, não em listas enormes."
+      ],
+      "task": "Conte sua rotina de ontem (passado) e seus planos de amanhã (futuro) em 5 frases.",
+      "closing": "Presente, passado e futuro: com esses três tempos você já narra a vida inteira em inglês."
+    },
+    {
+      "id": "m7l4",
+      "title": "Destravar — present perfect, condicionais, phrasal verbs, conectores",
+      "level": "Intermediário",
+      "duration": "14–16 min",
+      "hook": "Estas são as estruturas que separam o 'intermediário travado' do falante confiante. Vamos atacar as quatro.",
+      "teach": [
+        "Present perfect: o tempo que mais confunde brasileiro (have done) — quando e por que usar.",
+        "Condicionais (if): do zero ao terceiro, de forma prática e com exemplos reais.",
+        "Phrasal verbs de alta frequência (get up, give up, look for…) — minerados do uso real.",
+        "Conectores (however, although, so, because) pra soar natural e fluido."
+      ],
+      "task": "Escolha 1 das 4 estruturas e escreva 3 frases reais usando ela. Traga dúvidas para a call de Fundamentos.",
+      "closing": "Não é falta de gramática que te travou. É falta DESTAS estruturas específicas. Domine-as e destrave."
+    },
+    {
+      "id": "m7l5",
+      "title": "Os erros fossilizados mais comuns do brasileiro",
+      "level": "Intermediário",
+      "duration": "12–14 min",
+      "hook": "Existem erros que o brasileiro repete há anos e nem percebe. Vou te mostrar os principais — e como corrigir de vez.",
+      "teach": [
+        "'I have 30 years' → 'I am 30 years old'. (idade com to be)",
+        "'I have a doubt' → 'I have a question'. (falso cognato)",
+        "Confusões de pronúncia clássicas (th, vogais) e o sumiço do -s/-ed no fim das palavras.",
+        "'People is' → 'People are', e outros erros de concordância recorrentes.",
+        "Ensine a estratégia: escolher 1 erro fossilizado por vez e caçá-lo conscientemente até sumir."
+      ],
+      "task": "Identifique 1 erro fossilizado que você comete e se proponha a corrigi-lo por uma semana inteira.",
+      "closing": "Erro fossilizado não some com mais teoria — some com atenção consciente. Escolha um e mate-o esta semana."
+    }
+  ]
+}

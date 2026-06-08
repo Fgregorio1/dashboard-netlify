@@ -1,0 +1,85 @@
+{
+  "type": "module",
+  "code": "M1",
+  "title": "Mentalidade & Quebra de Crenças",
+  "goal": "Destravar a cabeça antes de qualquer técnica. Para iniciante e para quem empacou.",
+  "lessons": [
+    {
+      "id": "m1l1",
+      "title": "A verdade sobre como adultos aprendem inglês",
+      "level": "Todos",
+      "duration": "8–10 min",
+      "hook": "Se você 'estudou inglês a vida toda' e ainda não fala, o problema não é você — é o método que te venderam. Nesta aula eu vou te mostrar como adultos REALMENTE aprendem um idioma.",
+      "teach": [
+        "Diga que existe uma diferença entre APRENDER sobre o inglês (decorar regras) e ADQUIRIR inglês (entender e usar). A escola foca no primeiro; fluência vem do segundo.",
+        "Explique a ideia central de Stephen Krashen: a gente adquire um idioma quando recebe muita mensagem que CONSEGUE entender — não quando decora gramática.",
+        "Quebre o mito da criança: adultos aprendem mais rápido que crianças nos primeiros meses. O que crianças têm a mais é TEMPO de exposição e ZERO medo de errar — e os dois dá pra copiar.",
+        "Apresente a lógica do método: 75% imersão + mentalidade, 25% gramática. Ao contrário da escola, que faz o oposto."
+      ],
+      "example": "Conte a história dos dois imigrantes: um vive nos EUA há 10 anos e mal fala inglês; o outro chegou já falando. A diferença nunca foi o país — foi exposição com sentido + uso real + ausência de medo.",
+      "task": "Escreva em uma frase: 'Eu não falo inglês ainda porque sempre me ensinaram a ___'. Poste na comunidade.",
+      "closing": "Você não é ruim de idiomas. Você só nunca usou o método certo. Isso muda a partir de hoje."
+    },
+    {
+      "id": "m1l2",
+      "title": "Por que a escola tradicional falhou com você",
+      "level": "Todos",
+      "duration": "7–9 min",
+      "hook": "Você não desistiu do inglês. O método é que te abandonou primeiro. Deixa eu te mostrar exatamente onde a escola erra.",
+      "teach": [
+        "Erro 1: ensinam gramática isolada, fora de qualquer contexto que importe pra você. Você decora 'present perfect' mas não consegue pedir um café.",
+        "Erro 2: input artificial e chato (diálogos de livro didático) em vez de conteúdo que você de fato gosta.",
+        "Erro 3: zero prática de fala real — no máximo repetir frase com o professor. Nunca uma conversa de verdade.",
+        "Erro 4: ritmo de turma, não seu. Você avança quando a turma avança, não quando VOCÊ está pronto.",
+        "Conclua: nada disso é culpa sua. E o método LatinusPro vira cada um desses erros do avesso."
+      ],
+      "task": "Liste os 3 motivos que mais te fizeram desistir antes. Vamos atacar cada um deles na comunidade.",
+      "closing": "A escola te ensinou a passar na prova. Aqui você vai aprender a conversar. São coisas diferentes."
+    },
+    {
+      "id": "m1l3",
+      "title": "As 6 crenças que te travam",
+      "level": "Todos",
+      "duration": "12–15 min",
+      "hook": "Existe uma coisa que trava mais gente do que gramática: as histórias que você conta pra si mesmo. Vamos destruir as 6 principais.",
+      "teach": [
+        "Apresente as 6 crenças (veja a aba 'Quebra de Crenças' para o roteiro detalhado de cada uma).",
+        "Para cada crença, siga sempre a estrutura: Mito → Realidade → Ação concreta.",
+        "Reforce a mais importante: 'preciso morar fora'. Mostre que é input + output + motivação, não geografia.",
+        "Termine conectando com o filtro afetivo: o medo de errar é o maior bloqueio — e a comunidade existe pra reduzir esse medo."
+      ],
+      "task": "Escolha a crença que MAIS pesa em você e execute a ação correspondente hoje. Conte na comunidade qual foi.",
+      "closing": "Crença vira comportamento. Mude a história e o resto do método finalmente funciona."
+    },
+    {
+      "id": "m1l4",
+      "title": "Definindo sua meta de 90 dias",
+      "level": "Todos",
+      "duration": "8–10 min",
+      "hook": "Sem um alvo claro, qualquer estudo vira ansiedade. Hoje você define uma meta que dá pra alcançar em 90 dias — e que você vai sentir.",
+      "teach": [
+        "Explique por que 90 dias: tempo suficiente pra ver resultado real, curto o bastante pra manter foco.",
+        "Defina a meta padrão da comunidade: 'ter minha primeira conversa real em inglês de 10 minutos com um parceiro'.",
+        "Mostre como tornar a meta mensurável: vocabulário (ex.: +500 palavras), minutos de imersão por dia, nº de conversas.",
+        "Ensine a quebrar em marcos semanais (semana 1: sistema montado; semana 4: primeiro áudio; semana 8: primeira conversa)."
+      ],
+      "task": "Escreva sua meta de 90 dias no formato: 'Em 90 dias eu vou ___, medido por ___'. Fixe no seu perfil.",
+      "closing": "Você não precisa de fluência em 90 dias. Precisa de PROVA de que está funcionando. É isso que a meta entrega."
+    },
+    {
+      "id": "m1l5",
+      "title": "Montando uma rotina diária que você sustenta",
+      "level": "Todos",
+      "duration": "9–11 min",
+      "hook": "A rotina que você não sustenta é pior do que rotina nenhuma. Vamos montar uma que sobrevive até nos dias ruins.",
+      "teach": [
+        "Princípio: imersão SUBSTITUI consumo que você já faz, não soma horas novas. Troque o idioma do que você já assiste.",
+        "Defina um mínimo inegociável pequeno (ex.: 15 min/dia). Pequeno demais pra falhar.",
+        "Ancore o hábito a algo que já existe (café da manhã, trânsito, academia) — 'depois de X, eu faço imersão'.",
+        "Separe dias bons (imersão + vocabulário + fala) de dias ruins (só o mínimo). O importante é não zerar o streak."
+      ],
+      "task": "Defina seu mínimo inegociável e a âncora dele. Poste: 'Todo dia, depois de ___, eu faço ___ minutos.'",
+      "closing": "Constância vence intensidade. 15 minutos por dia derrotam 3 horas no domingo, sempre."
+    }
+  ]
+}

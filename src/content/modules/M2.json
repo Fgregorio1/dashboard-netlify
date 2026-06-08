@@ -1,0 +1,71 @@
+{
+  "type": "module",
+  "code": "M2",
+  "title": "O Método LatinusPro",
+  "goal": "Entender o sistema único que serve quem começa do zero E quem travou.",
+  "lessons": [
+    {
+      "id": "m2l1",
+      "title": "Os 4 pilares em 10 minutos",
+      "level": "Todos",
+      "duration": "10 min",
+      "hook": "Todo o método cabe em 4 pilares. Entenda isso e você nunca mais vai se perder no que fazer a seguir.",
+      "teach": [
+        "Pilar 1 — Mentalidade: remove o medo e as crenças que travam (já vimos no M1).",
+        "Pilar 2 — Imersão/Input: o motor. A maior parte do seu tempo é consumir conteúdo que você ama, entendendo.",
+        "Pilar 3 — Conexão/Output: o acelerador. Falar de verdade, com gente de verdade.",
+        "Pilar 4 — Fundamentos: os 25% de gramática que destravam, sob demanda.",
+        "Mostre que recompensa (streaks, vocabulário, marcos) é a camada que conecta tudo e te mantém voltando."
+      ],
+      "task": "Em uma frase, explique o método para um amigo como se ele tivesse 12 anos. Poste sua explicação.",
+      "closing": "Se você lembrar só dos 4 pilares, já sabe mais sobre aprender inglês do que 90% das escolas."
+    },
+    {
+      "id": "m2l2",
+      "title": "Input compreensível: a ideia central",
+      "level": "Todos",
+      "duration": "9–11 min",
+      "hook": "Existe uma única ideia que, se você entender, muda tudo. Chama-se input compreensível. Vou te explicar em linguagem de gente.",
+      "teach": [
+        "Defina: você adquire inglês quando recebe muita mensagem que você QUASE entende — nem fácil demais, nem difícil demais.",
+        "Apresente o conceito do 'i+1': conteúdo um degrau acima do seu nível atual.",
+        "Explique por que tradução/legenda ajuda: ela transforma input incompreensível em compreensível enquanto você ainda não tem vocabulário.",
+        "Deixe claro: entender NÃO é traduzir cada palavra. É pegar a mensagem. Tolerar não entender 100% é parte do jogo."
+      ],
+      "example": "Compare com um bebê: ninguém explica gramática pra ele. Ele recebe MESES de input que faz sentido pelo contexto. Você vai fazer o mesmo, só que mais rápido porque já é adulto.",
+      "task": "Assista 5 minutos de um vídeo em inglês e anote: entendi a MENSAGEM geral? (não precisa entender toda palavra).",
+      "closing": "Pare de tentar entender cada palavra. Persiga a mensagem. A fluência mora aí."
+    },
+    {
+      "id": "m2l3",
+      "title": "O ciclo: Input → Vocabulário → Output → repetir",
+      "level": "Todos",
+      "duration": "8–10 min",
+      "hook": "O método não é uma lista de tarefas soltas. É um ciclo que se retroalimenta. Deixa eu te mostrar a roda.",
+      "teach": [
+        "Passo 1 — Input: você consome conteúdo que ama e entende.",
+        "Passo 2 — Vocabulário: você minera as palavras novas desse conteúdo e fixa com repetição espaçada.",
+        "Passo 3 — Output: você usa essas palavras falando (sozinho, gravando, ou com parceiro).",
+        "Passo 4 — Repetir: cada volta o conteúdo fica mais fácil, então você sobe o nível do input.",
+        "Mostre que o erro comum é pular o output — é por isso que o intermediário entende tudo mas não fala."
+      ],
+      "task": "Faça uma mini-volta hoje: 10 min de input → minere 5 palavras → fale 1 frase usando uma delas em voz alta.",
+      "closing": "Não é estudar mais. É girar essa roda todo dia. A roda é que faz a fluência."
+    },
+    {
+      "id": "m2l4",
+      "title": "Diagnóstico: descubra seu ponto de partida",
+      "level": "Todos",
+      "duration": "7–9 min",
+      "hook": "Todo mundo aqui segue o MESMO caminho. A única coisa que muda é onde você começa o nível do conteúdo. Vamos descobrir o seu.",
+      "teach": [
+        "Reforce: não existe trilha separada. O método é o mesmo pra todos; só o nível do material muda.",
+        "Dê o autodiagnóstico simples: assista 2 min de conteúdo nativo (ex.: um podcast). Entendeu a ideia geral? → Intermediário. Travou nas primeiras frases? → Iniciante.",
+        "Explique onde isso se aplica: na biblioteca de imersão (M3) e na biblioteca de gramática (M7) — você pega o material do seu nível.",
+        "Tranquilize: o nível é só um ponto de partida; ele sobe sozinho conforme você gira o ciclo."
+      ],
+      "task": "Faça o teste de 2 minutos e marque seu ponto de partida (Iniciante ou Intermediário) no seu perfil.",
+      "closing": "Saber onde você começa evita dois erros mortais: o tédio do fácil demais e a frustração do difícil demais."
+    }
+  ]
+}

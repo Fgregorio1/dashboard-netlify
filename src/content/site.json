@@ -1,0 +1,102 @@
+{
+  "type": "site",
+  "pillars": [
+    {
+      "n": "01",
+      "title": "Mentalidade & Crenças",
+      "subtitle": "o destravamento",
+      "body": "Vem primeiro, não por último. Remove o medo, a vergonha e os mitos que travam o aluno antes de qualquer técnica.",
+      "science": "Filtro afetivo (Krashen): ansiedade e baixa motivação literalmente bloqueiam a aquisição."
+    },
+    {
+      "n": "02",
+      "title": "Imersão / Input",
+      "subtitle": "o motor",
+      "body": "Consumir conteúdo que o aluno já ama (YouTube, audiolivros, leitura) com legenda/tradução. É onde ele passa a maior parte do tempo diário.",
+      "science": "Input compreensível (Krashen): input que você quase entende, um pouco acima do seu nível (i+1)."
+    },
+    {
+      "n": "03",
+      "title": "Conexão / Output",
+      "subtitle": "o acelerador",
+      "body": "Transformar entendimento passivo em fala ativa. Parceiro de intercâmbio real + prática de conversa na comunidade.",
+      "science": "Hipótese do output (Swain): produzir a língua com humanos reais consolida o aprendizado."
+    },
+    {
+      "n": "04",
+      "title": "Fundamentos",
+      "subtitle": "os 25%",
+      "body": "A gramática e as regras que realmente destravam — ensinadas só o suficiente para o aluno não empacar. Call ao vivo semanal vive aqui.",
+      "science": "Gramática sob demanda: ensinar a regra quando ela resolve um problema concreto de comunicação."
+    }
+  ],
+  "path": [
+    {
+      "step": "00",
+      "title": "Comece Aqui — Primeiros 7 Dias",
+      "note": "Onboarding: vitória rápida e setup do sistema"
+    },
+    {
+      "step": "01",
+      "title": "M1 · Mentalidade & Quebra de Crenças",
+      "note": "Desbloqueio inicial (todos)"
+    },
+    {
+      "step": "02",
+      "title": "M2 · O Método LatinusPro",
+      "note": "O sistema + diagnóstico de ponto de partida"
+    },
+    {
+      "step": "03",
+      "title": "M3 · Sistema de Imersão",
+      "note": "Biblioteca de conteúdo por nível dentro do módulo"
+    },
+    {
+      "step": "04",
+      "title": "M4 · Sistema de Vocabulário",
+      "note": "Repetição espaçada + tracker de progresso"
+    },
+    {
+      "step": "05",
+      "title": "M5 · Destravar a Fala",
+      "note": "Output — onde o intermediário empaca"
+    },
+    {
+      "step": "06",
+      "title": "M6 · Parceiro de Intercâmbio",
+      "note": "Matchmaking interno"
+    },
+    {
+      "step": "07",
+      "title": "M7 · Biblioteca de Fundamentos",
+      "note": "Gramática self-paced: pega só o que precisa"
+    },
+    {
+      "step": "08",
+      "title": "Vault de Calls Gravadas",
+      "note": "Aulas e Conversation Clubs anteriores"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "overview",
+      "label": "Visão Geral"
+    },
+    {
+      "id": "onboarding",
+      "label": "Primeiros 7 Dias"
+    },
+    {
+      "id": "journey",
+      "label": "A Jornada (Currículo)"
+    },
+    {
+      "id": "beliefs",
+      "label": "Quebra de Crenças"
+    },
+    {
+      "id": "calls",
+      "label": "Calls & Rituais"
+    }
+  ]
+}
