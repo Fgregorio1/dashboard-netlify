@@ -1,5 +1,3 @@
-import path from "node:path";
-import { fileURLToPath } from "node:url";
 import { GitContentSource } from "@stackbit/cms-git";
 import { defineStackbitConfig } from "@stackbit/types";
 import type { DocumentWithSource, Field, SiteMapEntry } from "@stackbit/types";
@@ -16,7 +14,8 @@ function documentSitemapLabel(doc: DocumentWithSource): string {
   return `${doc.modelName} · ${doc.id}`;
 }
 
-const rootPath = path.dirname(fileURLToPath(import.meta.url));
+/** Repo root. Netlify/Stackbit compile this file to CJS where `import.meta.url` is undefined, so avoid `fileURLToPath`. */
+const rootPath = process.cwd();
 
 const lessonFormFields: Field[] = [
   { name: "id", type: "string", label: "ID", required: true },
